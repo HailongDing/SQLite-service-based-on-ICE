@@ -1,0 +1,4 @@
+#
+# The  services
+#
+IceBox.Service.SQLiter=SQLiteServer:createSQLiteDBServer --Ice.Config=db.service

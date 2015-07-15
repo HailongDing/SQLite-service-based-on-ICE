@@ -1,0 +1,5 @@
+SQLiter.Endpoints=tcp -p 9998
+Ice.Warn.Connections=0
+Ice.Trace.Network=0
+Ice.Trace.Protocol=0
+Ice.MessageSizeMax=51200
